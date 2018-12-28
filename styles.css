@@ -2,12 +2,6 @@
      text-decoration: none;
      color : green;
  }
- h1{
-     color:green;
- }
- h2{
-     color:green;
- }
- h3 {
+ h1, h2, h3 {
      color:green;
  }
