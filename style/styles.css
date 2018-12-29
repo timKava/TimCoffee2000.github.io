@@ -2,10 +2,21 @@
      text-decoration: none;
      color : green;
  }
+ h1{
+   text-align: center;
+ }
  h1, h2, h3 {
      color:green;
  }
-img{
-    width : 130px;
-    height : 130px;
+img, img{
+    width:130px;
+    height:130px;
+}
+table, th, tr{
+    border:1px solid black;
+    width: 30%;
+}
+.leftimg{
+    float: left;
+    margin: 7px 7px 7px 7px;
 }
